@@ -1,0 +1,18 @@
+[submodule "dotfiles"]
+	path = dotfiles
+	url = /Users/e9/Documents/gitHub/schilton/MyMacBook/roles/dotfiles
+[submodule "homebrew"]
+	path = homebrew
+	url = /Users/e9/Documents/gitHub/schilton/MyMacBook/roles/homebrew/
+[submodule "mas"]
+	path = mas
+	url = /Users/e9/Documents/gitHub/schilton/MyMacBook/roles/mas/
+[submodule "roles/dotfiles"]
+	path = roles/dotfiles
+	url = /Users/e9/Documents/gitHub/schilton/roles/dotfiles
+[submodule "roles/homebrew"]
+	path = roles/homebrew
+	url = /Users/e9/Documents/gitHub/schilton/roles/homebrew/
+[submodule "roles/mas"]
+	path = roles/mas
+	url = /Users/e9/Documents/gitHub/schilton/roles/mas/
