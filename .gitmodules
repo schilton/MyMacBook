@@ -16,3 +16,6 @@
 [submodule "roles/mas"]
 	path = roles/mas
 	url = /Users/e9/Documents/gitHub/schilton/roles/mas/
+[submodule "roles/--force"]
+	path = roles/--force
+	url = /Users/e9/Documents/gitHub/schilton/roles/dotfiles
